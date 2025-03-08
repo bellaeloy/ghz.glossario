@@ -145,7 +145,7 @@ header {
   font-family: var(--font-sansserif);
   text-transform: uppercase;
   margin: 30px;
-  line-height: calc(var(--line-height) / 1.5);
+  line-height: calc(var(--line-height) / .8);
 }
 
 .site_title {
