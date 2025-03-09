@@ -32,6 +32,7 @@ email: isabellaeloy@usp.br # The owner's email
 # 2. SITE AVALAIBLE FUNCTIONS
 darkmode: true # Allows the switch between dark and light mode
 typosize: true # Allows to change the size of the font
+typodys: true # Allows to change the type of the font
 home-posts-limit: 10 # Change the limit of posts displayed on the home page
 
 # 3. IGNORED FILES WHILE building
@@ -67,7 +68,7 @@ defaults:
       layout: "categories"
 
 # 6. Jekyll settings
-permalink: pretty # Permalink will be /YYY/MM/DD/page-name/
+permalink: pretty # Permalink will be /YYYY/MM/DD/page-name/
 timezone: Sao_Paulo/Brazil
 
 

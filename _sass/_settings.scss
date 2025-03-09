@@ -84,9 +84,7 @@
   content: var(
     --sans-serif-label
   ); // If you want to change the displayed text to change mode, change it in the :root section of this file
-  font-size: calc(
-    var(--font-size) / 1.5
-  ); // Size font of the displayed text to switch between serif and sans-serif
+  font-size: var(--font-size); // Size font of the displayed text to switch between serif and sans-serif
   font-family: var(--font-sansserif);
 }
 

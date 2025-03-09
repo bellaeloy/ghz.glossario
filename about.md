@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre a pesquisa
+
 nav_header: true #If you want the page to be displayed on the nav menu on top of the site, leave "true" here. If not, you can leave it blank
-permalink: /about/
+permalink: /sobre-a-pesquisa/
 ---
 
-## Simply Cyan
+# Simply Cyan
 
 Simply Cyan is a [Jekyll](https://github.com/jekyll/jekyll) theme dedicated to text and reading. This theme focuses on readability and clarity. Different available functions are at work to facilitate the reader's experience.
 
