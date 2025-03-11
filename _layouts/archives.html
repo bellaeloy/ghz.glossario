@@ -2,13 +2,13 @@
 layout: default
 ---
 <article>
-    <h1 class="custom-pages-title">All the articles</h1>
+    <h1 class="custom-pages-title">Todos os termos</h1>
     <table class="archives-table">
         {% for post in site.posts %}
             <tr>
                 <td>
                     <a href="{{ post.url | relative_url}}">
-                        <h2 class="list_post_title"><span class="a-nude">{{ post.title | truncate: 30 | escape }}</span></h2>
+                        <h2 class="list_post_title"><span class="a-nude">{{ post.title | truncate: 45 | escape }}</span></h2>
                     </a>
                 </td>
                 <td class="archives-date">

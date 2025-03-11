@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "__Example Post n°01_teste"
-date: 2022-11-11
+title: "Acumulação por despossessão"
+date: 2025-03-11
 category:
   - "P_Quod"
   - "Another P_Quod"
