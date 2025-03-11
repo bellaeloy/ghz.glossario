@@ -17,7 +17,7 @@
 # You'll be able to call these different parameters via {{ site.yourparam }} (e.g. {{ site.title }} to retrieve the title of you site on any of your page).
 # You can add to this list any new parameter you wish, and access it anywhere in the templates.
 
-title: "Glossário Governança Horizontal de Dados" # The site title
+title: "Glossário_GHZ" # The site title
 lang: pt-BR # The site language
 encoding: utf-8
 description: "Termos fundamentais da pesquisa" # The description of the site
