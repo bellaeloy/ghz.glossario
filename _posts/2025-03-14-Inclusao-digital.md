@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Inclusão Digital"
+date: 2025-03-14
+category:
+  - "Tecnopolítica"
+---
+Não se limita apenas ao acesso à tecnologia, mas envolve fatores como habilidades, atitudes e usos das TICs (Tecnologias da Informação e Comunicação). Além das diferenças socioeconômicas, a desigualdade digital está ligada à educação, pois pessoas com menor escolaridade possuem menos habilidades na internet e aproveitam menos seus benefícios econômicos. Assim, a inclusão não é apenas um problema de conexão, mas também de uso e impacto social. (Castells, [2009](https://onlinelibrary.wiley.com/doi/book/10.1002/9781444319514){:target="_blank"}{:rel="noopener noreferrer"}, [2013](https://www.alianzaeditorial.es/primer_capitulo/comunicacion-y-poder.pdf){:target="_blank"}{:rel="noopener noreferrer"}; [Capurro, 2008](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470281819#page=641){:target="_blank"}{:rel="noopener noreferrer"}; [Negroponte, 1995](https://www.amazon.com.br/Being-Digital-Nicholas-Negroponte/dp/0679762906?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.0mx_rWXS4WfQKB_HNrXuWQMtUx4bjTyrIX43l6xDo-QwcpgU-toLD1SWcb5Y8tCwHFRZB2D4i5YMhMiZDD9jYg096S06K4HTW0FVdicAEHPl-Xiy2nqBHxPL8P7MI0VyMuG5dZ-WKyuVfoeCE_SCeiBhNtfvicLe9-s-NjuicYt3rm6J5ZHcYJeleI8fv9blSSqPHwiLuiRjRI3dfxYPeB0aG7LacQOfTBF17eto6BqET6KPkFWYKXvsEN9utltXujqYM-EvszAdvTchH7MhsjIcCCiBq5WLyGoiEJoh7qtMkLXRcdpuwbcCJQCzHcjrWBo98FUgizMdK0QvEf4lawL7ax_K_-wjtB2bKa6mKsexsQ1gaBvHPtQ2ptlzyH10mNfpLNuDzj92cBvNmS5fR0Bw1ZGAPhoaJ_D8VKT4kdDETGY0W47LeJEkB3zMAelp.JCw4uFqS9Z_iABph-0emmIdgScK4I45aj7meUoyl-A4&dib_tag=se&keywords=Being+digital&qid=1741963650&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9){:target="_blank"}{:rel="noopener noreferrer"}).
